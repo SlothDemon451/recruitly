@@ -1,0 +1,6 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="90" fill="#1A2A4A" />
+  <circle cx="100" cy="100" r="70" fill="#2A3A5A" />
+  <circle cx="100" cy="100" r="50" fill="#3A4A6A" />
+  <text x="100" y="105" font-family="Arial" font-size="18" fill="white" text-anchor="middle">Noucondsite</text>
+</svg> 
