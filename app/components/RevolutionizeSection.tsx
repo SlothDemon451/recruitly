@@ -17,8 +17,8 @@ const RevolutionizeSection = () => {
               Process with
             </h2>
             <p className="text-gray-600 mb-8 max-w-lg">
-              Discover the future of hiring with Recruitly's cutting-edge AI
-              technology. Our platform seamlessly connects UK companies with
+              Discover the future of hiring with Recruitly&apos;s cutting-edge
+              AI technology. Our platform seamlessly connects UK companies with
               top-tier Pakistani talent
             </p>
             <div className="flex flex-wrap gap-4">

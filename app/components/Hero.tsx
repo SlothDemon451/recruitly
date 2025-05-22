@@ -31,7 +31,7 @@ const Hero = () => {
             Power of AI-
           </h1>
           <p className="text-lg md:text-xl text-white/90 mb-8 max-w-2xl mx-auto">
-            Revolutionize your hiring process with Recruitly's AI-powered
+            Revolutionize your hiring process with Recruitly&apos;s AI-powered
             solutions. Unlock a new era of smart, efficient, and trustworthy
             talent acquisition
           </p>

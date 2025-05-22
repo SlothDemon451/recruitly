@@ -65,8 +65,8 @@ const AboutRecruitly = () => {
             About Recruitly
           </h2>
           <p className="text-gray-600 max-w-3xl mx-auto">
-            Discover how Recruitly's innovative solutions are revolutionizing
-            the hiring landscape
+            Discover how Recruitly&apos;s innovative solutions are
+            revolutionizing the hiring landscape
           </p>
         </div>
 
